@@ -13,13 +13,14 @@ I oversampled the data using the RandomOverSampler and SMOTE algorithms, and und
 Below, please find the results of the analysis:
 
 ### RandomOverSampler
+- Balanced accuracy score is 64%
 
 <img width="611" alt="randomoversampler_accuracyscore" src="https://user-images.githubusercontent.com/85654649/138576120-8ebdee53-2bf2-44ef-90f7-6e686fdf54ca.png">
-- Balanced accuracy score is 64%
+
+- High_risk has a very low positivity at 1% and the recall is 66%.
 
 <img width="814" alt="randomoversampler_classreport" src="https://user-images.githubusercontent.com/85654649/138576406-edea8443-e239-44cc-8055-9137f7d74fad.png">
 
-- High_risk has a very low positivity at 1% and the recall is 66%.
 
 ### SMOTE 
 <img width="504" alt="SMOTE_accuracyscore" src="https://user-images.githubusercontent.com/85654649/138576437-8c39b4ee-dfd5-412f-be47-6e325120ac66.png">
