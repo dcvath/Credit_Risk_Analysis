@@ -12,12 +12,29 @@ I oversampled the data using the RandomOverSampler and SMOTE algorithms, and und
 ## Results
 Below, please find the results of the analysis:
 
+### RandomOverSampler
 There is a bulleted list that describes the balanced accuracy score and the precision and recall scores of all six machine learning models 
-
 - .
+
+### SMOTE 
 
 - . 
 
+### ClusterCentroids
+
+- . 
+
+### SMOTEENN
+
+- . 
+
+### BalancedRandomForestClassifier
+
+- . 
+
+### EasyEnsembleClassifier
+
+- . 
 
 ## Summary
 Based on the analysis, .
