@@ -44,15 +44,25 @@ Below, please find the results of the analysis:
 
 ### SMOTEENN
 
-- Balanced Accuracy Score 
-- Precision Score
-- Recall Score 
+- Balanced accuracy score is 54.
+
+<img width="503" alt="SMOTEENN_accuracyscore" src="https://user-images.githubusercontent.com/85654649/138576667-a11555b2-3d3d-4cbc-90e6-f52cff709f44.png">
+
+- High_risk has a very low positivity at 1% and the recall is 72%.
+
+<img width="819" alt="SMOTEENN_classreport" src="https://user-images.githubusercontent.com/85654649/138576695-15a7f08c-997a-44a9-9e67-9b5d16a8a9f6.png">
+
 
 ### BalancedRandomForestClassifier
 
-- Balanced Accuracy Score 
-- Precision Score
-- Recall Score 
+- Balanced accuracy score is 77%.
+
+<img width="605" alt="Forest_accuracyscore" src="https://user-images.githubusercontent.com/85654649/138576741-1cb8e1d8-a9da-47a6-8cc6-040359cb05dd.png">
+
+- High_risk has a very low positivity at 3% and the recall is 66%.
+
+<img width="808" alt="Forest_classreport" src="https://user-images.githubusercontent.com/85654649/138576756-82fb4d5c-04df-4762-be55-680293c4c090.png">
+
 
 ### EasyEnsembleClassifier
 
