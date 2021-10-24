@@ -13,8 +13,10 @@ I oversampled the data using the RandomOverSampler and SMOTE algorithms, and und
 Below, please find the results of the analysis:
 
 ### RandomOverSampler
-There is a bulleted list that describes the balanced accuracy score and the precision and recall scores of all six machine learning models 
-- .
+
+<img width="611" alt="randomoversampler_accuracyscore" src="https://user-images.githubusercontent.com/85654649/138576120-8ebdee53-2bf2-44ef-90f7-6e686fdf54ca.png">
+- Balanced Accuracy Score is 65%
+- The High Risk precision is approximately 
 
 ### SMOTE 
 
@@ -35,7 +37,7 @@ There is a bulleted list that describes the balanced accuracy score and the prec
 ### EasyEnsembleClassifier
 
 - . 
-
+There is a bulleted list that describes the balanced accuracy score and the precision and recall scores of all six machine learning models 
 ## Summary
 Based on the analysis, .
 
