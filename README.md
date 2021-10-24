@@ -72,6 +72,8 @@ Below, please find the results of the analysis:
 
 - High_risk has a very low positivity at 9% and the recall is 89%.
 
+<img width="838" alt="AdaBoost_classreport" src="https://user-images.githubusercontent.com/85654649/138576880-e9edaf9d-5cd8-49f0-a145-e0cee9d1633e.png">
+
 
 ## Summary
 Based on the analysis, .
