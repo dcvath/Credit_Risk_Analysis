@@ -33,9 +33,14 @@ Below, please find the results of the analysis:
 
 ### ClusterCentroids
 
-- Balanced Accuracy Score 
-- Precision Score
-- Recall Score 
+- Balanced accuracy score is 65.
+
+<img width="487" alt="Cluster_accuracyscore" src="https://user-images.githubusercontent.com/85654649/138576561-230c4485-2adb-4ca7-b5c2-44023cfd3a1b.png">
+
+- High_risk has a very low positivity at 1% and the recall is 69%.
+
+<img width="834" alt="Cluster_classreport" src="https://user-images.githubusercontent.com/85654649/138576584-41e2a788-da07-43cd-b69e-763826215451.png">
+
 
 ### SMOTEENN
 
