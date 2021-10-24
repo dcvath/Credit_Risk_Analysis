@@ -3,11 +3,10 @@
 ## Overview of Analysis
 
 ### Purpose
-The purpose of this analysis was to. 
+The purpose of this analysis was to create different models and determine which model should be used to predict credit risk. The credit card credit dataset was provided by LendingClub, a peer-to-peer lending services company. 
 
-Overview of the loan prediction risk analysis:
-
-The purpose of this analysis is well defined 
+### Description of Analysis
+I oversampled the data using the RandomOverSampler and SMOTE algorithms, and undersampled the data using the ClusterCentroids algorithm. Then, I used a combinatorial approach of over- and undersampling using the SMOTEENN algorithm. Next, I compared two new machine learning models that reduce bias, BalancedRandomForestClassifier and EasyEnsembleClassifier, to predict credit risk.
 
 
 ## Results
