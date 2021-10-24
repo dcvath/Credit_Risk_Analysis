@@ -16,27 +16,39 @@ Below, please find the results of the analysis:
 
 <img width="611" alt="randomoversampler_accuracyscore" src="https://user-images.githubusercontent.com/85654649/138576120-8ebdee53-2bf2-44ef-90f7-6e686fdf54ca.png">
 - Balanced Accuracy Score is 65%
-- The High Risk precision is approximately 
+- Precision Score
+- Recall Score 
 
 ### SMOTE 
 
-- . 
+- Balanced Accuracy Score 
+- Precision Score
+- Recall Score  
 
 ### ClusterCentroids
 
-- . 
+- Balanced Accuracy Score 
+- Precision Score
+- Recall Score 
 
 ### SMOTEENN
 
-- . 
+- Balanced Accuracy Score 
+- Precision Score
+- Recall Score 
 
 ### BalancedRandomForestClassifier
 
-- . 
+- Balanced Accuracy Score 
+- Precision Score
+- Recall Score 
 
 ### EasyEnsembleClassifier
 
-- . 
+- Balanced Accuracy Score 
+- Precision Score
+- Recall Score 
+
 There is a bulleted list that describes the balanced accuracy score and the precision and recall scores of all six machine learning models 
 ## Summary
 Based on the analysis, .
