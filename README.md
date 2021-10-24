@@ -33,7 +33,7 @@ Below, please find the results of the analysis:
 
 ### ClusterCentroids
 
-- Balanced accuracy score is 65.
+- Balanced accuracy score is 65%.
 
 <img width="487" alt="Cluster_accuracyscore" src="https://user-images.githubusercontent.com/85654649/138576561-230c4485-2adb-4ca7-b5c2-44023cfd3a1b.png">
 
@@ -44,7 +44,7 @@ Below, please find the results of the analysis:
 
 ### SMOTEENN
 
-- Balanced accuracy score is 54.
+- Balanced accuracy score is 54%.
 
 <img width="503" alt="SMOTEENN_accuracyscore" src="https://user-images.githubusercontent.com/85654649/138576667-a11555b2-3d3d-4cbc-90e6-f52cff709f44.png">
 
