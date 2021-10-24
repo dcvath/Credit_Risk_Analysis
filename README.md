@@ -66,11 +66,13 @@ Below, please find the results of the analysis:
 
 ### EasyEnsembleClassifier
 
-- Balanced Accuracy Score 
-- Precision Score
-- Recall Score 
+- Balanced accuracy score is 92%.
 
-There is a bulleted list that describes the balanced accuracy score and the precision and recall scores of all six machine learning models 
+<img width="502" alt="AdaBoost_accuracyscore" src="https://user-images.githubusercontent.com/85654649/138576840-e09fdc92-d51f-4f31-8e4c-b61190033d12.png">
+
+- High_risk has a very low positivity at 9% and the recall is 89%.
+
+
 ## Summary
 Based on the analysis, .
 
