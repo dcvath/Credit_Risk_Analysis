@@ -76,7 +76,4 @@ Below, please find the results of the analysis:
 
 
 ## Summary
-Based on the analysis, .
-
-There is a summary of the results (2 pt)
-There is a recommendation on which model to use, or there is no recommendation with a justification (3 pt)
+Based on the analysis, all the models are not very precise in determining loan credit risk. The best model appears to the EasyEnsembleClassifer because it had the best balanced accuracy score at 92% (highest of all models) and better precision and recall scores, but those still weren't very strong. My recommendation would be to continue to work on the models to improve the combination of scores to ensure the lender is not excluding those that could be a lower credit risk or include those that are of higher credit risk.
